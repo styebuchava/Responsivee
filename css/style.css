@@ -337,6 +337,26 @@
   color: white;
   margin-bottom: 20px;
 }
+.logos{
+  margin-top: 15px;
+}
+.fa-twitter{
+  color: lightskyblue;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 20px;
+  transition: all 0.3s;
+}
+.fa-google-plus-g{
+  color: rgb(167, 35, 35);
+  font-size: 20px;
+  transition: all 0.3s;
+}
+.fa-facebook{
+  color: rgb(44, 41, 235);
+  font-size: 20px;
+  transition: all 0.3s;
+}
 .left-foot-text {
   color: white;
 }
@@ -463,4 +483,13 @@
 }
 .fa-bars:hover {
   color: #5863f8;
+}
+.fa-google-plus-g:hover{
+  color: red;
+}
+.fa-twitter{
+  color: rgb(0, 68, 255);
+}
+.fa-facebook:hover{
+  color: blue;
 }
